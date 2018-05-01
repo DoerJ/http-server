@@ -2,7 +2,8 @@
 A program that accepts user requests through TCP connection and displays requested local file on browser
 
 ## Course
-SFU CMPT 371(Summer 2017): Data Communications and Networking
+<dt>2017 Summer, SFU</dt>
+<dt>CMPT 371: Data Communications and Networking</dt>
 
 ## Author
 James(Yuhao) He
